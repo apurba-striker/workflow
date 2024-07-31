@@ -1,6 +1,6 @@
 # CreWork Assignment
 
-This project includes `WorkFlow Assignment` built with Next.js ,Tailwind CSS and MongoDB.
+This project includes `WorkFlow Assignment` built with Next.js(Typescript) ,Tailwind CSS, Node, Express and MongoDB.
 
 ## Installation
 
