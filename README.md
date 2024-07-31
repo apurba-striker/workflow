@@ -21,7 +21,7 @@ This project includes `WorkFlow Assignment` built with Next.js(Typescript) ,Tail
    npm install 
    ```
 3. **.env file:**
-   There will be a .env.example file in backend folder rename it to .env and add MONGO_URI and JWT_SECRET data in it.
+   There will be a .env.example file in backend folder rename it to .env and add DATABASE_URL and JWT_SECRET data in it.
 
 4. **Run the development server:**
    ```bash
